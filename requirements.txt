@@ -9,4 +9,16 @@ streamlit-drawable-canvas
 scipy
 anastruct
 ifcopenshell
+google-generativeai
+Pillow
+fpdf2
+python-docx
+PyPDF2
+python-pptx
+python-docx
+
+
+
+
+
 
