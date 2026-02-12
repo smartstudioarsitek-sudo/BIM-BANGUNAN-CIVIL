@@ -1,0 +1,12 @@
+
+streamlit
+pandas
+XlsxWriter
+streamlit-drawable-canvas
+matplotlib
+numpy 
+streamlit-drawable-canvas 
+scipy
+anastruct
+ifcopenshell
+
